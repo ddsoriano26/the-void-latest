@@ -1,0 +1,58 @@
+{
+  "id": "the-void-1-5",
+  "title": "The Void 1.5",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "description": "<p>Mimo's Foundry translation for Daggerheart The Void 1.5.</p>",
+  "authors": [
+    {
+      "name": "Mimo",
+      "discord": "mimoimnida",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "items",
+      "label": "Item",
+      "path": "packs/items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "daggerheart",
+      "flags": {}
+    },
+    {
+      "name": "effects",
+      "label": "Effect",
+      "path": "packs/effects",
+      "type": "ActiveEffect",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "daggerheart",
+      "flags": {}
+    },
+    {
+      "name": "macros",
+      "label": "Macro",
+      "path": "packs/macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "action": "manageModule"
+}
