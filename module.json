@@ -14,8 +14,8 @@
       "flags": {}
     }
   ],
-  "manifest": "https://github.com/ddsoriano26/the-void-latest/blob/main/module.json",
-  "download": "https://github.com/ddsoriano26/the-void-latest/blob/main/the-void-1-5.zip",
+  "manifest": "https://raw.githubusercontent.com/ddsoriano26/the-void-latest/refs/heads/main/module.json",
+  "download": "https://github.com/ddsoriano26/the-void-latest/releases/download/0.0.1/the-void-1-5.zip",
   "flags": {
     "canUpload": true
   },
