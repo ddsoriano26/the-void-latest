@@ -1,6 +1,6 @@
 {
-  "id": "the-void-1-5",
-  "title": "The Void 1.5",
+  "id": "the-void-latest",
+  "title": "The Void (Latest)",
   "version": "0.0.1",
   "compatibility": {
     "minimum": "14",
@@ -15,7 +15,7 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/ddsoriano26/the-void-latest/refs/heads/main/module.json",
-  "download": "https://github.com/ddsoriano26/the-void-latest/releases/download/0.0.1/the-void-1-5.zip",
+  "download": "https://github.com/ddsoriano26/the-void-latest/releases/download/0.0.1/the-void-latest.zip",
   "flags": {
     "canUpload": true
   },
